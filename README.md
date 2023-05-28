@@ -10,4 +10,5 @@ This project shows how to analyse music store. You can examine the dataset with 
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema]("C:\Users\chandana\Downloads\MusicDatabaseSchema.png")
+![MusicDatabaseSchema]
+("C:\Users\chandana\Downloads\MusicDatabaseSchema.png")
